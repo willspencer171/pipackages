@@ -12,6 +12,8 @@ In the command line, type
 
 ```pip install -r requirements.txt```
 
+or run the install.py file, which will do this for you
+
 to install the required packages to your Python environment.
 The required packages for this script are pandas and importlib_metadata
 
